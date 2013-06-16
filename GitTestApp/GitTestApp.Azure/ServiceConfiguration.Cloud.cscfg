@@ -3,7 +3,7 @@
   <Role name="GitTestApp">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=tr17azr201;AccountKey=kEmGIKG63/jVlpwAkXTb6iVxT8BTsznDYr7+ZvBoYfqAa9rhGqmVBbbzp90NVLGpXkQT7Win2/tF/OG+CGFbwg==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
