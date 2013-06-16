@@ -28,6 +28,5 @@ C:\dev\tr17\GitTestApp\GitTestApp\bin\System.Web.Razor.xml
 C:\dev\tr17\GitTestApp\GitTestApp\bin\System.Web.WebPages.xml
 C:\dev\tr17\GitTestApp\GitTestApp\bin\System.Web.WebPages.Deployment.xml
 C:\dev\tr17\GitTestApp\GitTestApp\bin\System.Web.WebPages.Razor.xml
-C:\dev\tr17\GitTestApp\GitTestApp\obj\Debug\GitTestApp.csprojResolveAssemblyReference.cache
 C:\dev\tr17\GitTestApp\GitTestApp\obj\Debug\GitTestApp.dll
 C:\dev\tr17\GitTestApp\GitTestApp\obj\Debug\GitTestApp.pdb
