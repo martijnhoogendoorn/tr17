@@ -15,7 +15,6 @@
       <Import moduleName="Diagnostics" />
     </Imports>
     <Certificates>
-      <Certificate name="Certificate1" storeLocation="LocalMachine" storeName="My" />
     </Certificates>
   </WebRole>
 </ServiceDefinition>
