@@ -6,6 +6,9 @@
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=tr17azr201;AccountKey=kEmGIKG63/jVlpwAkXTb6iVxT8BTsznDYr7+ZvBoYfqAa9rhGqmVBbbzp90NVLGpXkQT7Win2/tF/OG+CGFbwg==" />
     </ConfigurationSettings>
     <Certificates>
+      <Certificate name="tr17"
+                 thumbprint="‎ff59517eb5d30a5195037b91c77a4021fb9a35f4"
+                 thumbprintAlgorithm="sha1" />
     </Certificates>
   </Role>
 </ServiceConfiguration>

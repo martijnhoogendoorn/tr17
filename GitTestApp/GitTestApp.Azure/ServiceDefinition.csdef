@@ -5,16 +5,21 @@
       <Site name="Web">
         <Bindings>
           <Binding name="Endpoint1" endpointName="Endpoint1" />
+          <Binding name="HttpsIn" endpointName="HttpsIn" />
         </Bindings>
       </Site>
     </Sites>
     <Endpoints>
       <InputEndpoint name="Endpoint1" protocol="http" port="80" />
+      <InputEndpoint name="HttpsIn" protocol="https" port="443" certificate="tr17" />
     </Endpoints>
     <Imports>
       <Import moduleName="Diagnostics" />
     </Imports>
     <Certificates>
+      <Certificate name="tr17"
+                   storeLocation="LocalMachine"
+                   storeName="CA" />
     </Certificates>
   </WebRole>
 </ServiceDefinition>
