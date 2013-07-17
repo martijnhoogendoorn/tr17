@@ -7,7 +7,7 @@
     </ConfigurationSettings>
     <Certificates>
       <Certificate name="tr17"
-                 thumbprint="‎ff59517eb5d30a5195037b91c77a4021fb9a35f4"
+                 thumbprint="‎f59517eb5d30a5195037b91c77a4021fb9a35f4"
                  thumbprintAlgorithm="sha1" />
     </Certificates>
   </Role>
