@@ -17,9 +17,7 @@
       <Import moduleName="Diagnostics" />
     </Imports>
     <Certificates>
-      <Certificate name="tr17"
-                   storeLocation="LocalMachine"
-                   storeName="CA" />
+      <Certificate name="tr17" storeLocation="LocalMachine" storeName="CA" />
     </Certificates>
   </WebRole>
 </ServiceDefinition>
